@@ -5,7 +5,7 @@ Learning outcomes highlights:
 - file operations
 - array of pointers
 
-**Problem:** Write a program to get two file names as command-line arguments. The input file has one straing in each line (without space). The program writes the input file strings in the output file in a reverse order. The program can be used as follows: 
+**Problem:** Write a program to get two file names as command-line arguments. The input file has one string in each line (without space). The program writes the input file strings in the output file in a reverse order. The program can be used as follows: 
 
 ./rev_file infile.txt outfile.txt (create outfile.txt)
 
